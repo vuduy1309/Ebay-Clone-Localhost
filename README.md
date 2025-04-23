@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+You can try the web app using the link below (https://ebay-clone-eta-tan.vercel.app/), or run it directly from the project folder.
+It might take a few minutes to load the data the first time — I’m sorry for the inconvenience!
 ## Available Scripts
 
 In the project directory, you can run:
